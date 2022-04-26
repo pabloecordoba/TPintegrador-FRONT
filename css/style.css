@@ -1,0 +1,22 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+/* div, ul.justify-content-center{
+        padding: 25px;
+        border: 5px black solid;
+        background: -webkit-linear-gradient(left, #154360, #1F618D);
+        color: white;
+    } */
+
+    /* #subrayar_punteado{
+        border-bottom: 3px dotted black;
+        text-decoration:none;
+        color: black;
+} */
+
+.container.fluid, button{
+    border-radius: 20%;
+}
